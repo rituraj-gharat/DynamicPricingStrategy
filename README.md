@@ -16,7 +16,7 @@ Table of Contents
 To get this project up and running on your local machine, follow these steps:
 
 # Clone the repository
-git clone https://github.com/yourusername/dynamic-pricing-model.git
+git clone https://github.com/rituraj-gharat/DynamicPricingStrategy
 
 # Navigate to the project directory
 cd dynamic-pricing-model
